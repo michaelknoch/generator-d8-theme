@@ -1,0 +1,15 @@
+general:
+  version: 1.x
+  css:
+    theme:
+      style/bootstrap.min.css: {}
+      style/style.css: {}
+  js:
+      js/bootstrap.min.js: {}
+      js/fade.js: {}
+  dependencies:
+      - core/jquery
+
+
+
+
