@@ -284,23 +284,11 @@ body {
     height: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-
-}
-
-h1 {
-    text-transform: uppercase;
-    color: white;
-    text-align: center;
-    font-weight: 300;
-    font-size: 90px;
 }
 
 /* sm */
 @media (max-width: 991px) {
-    .work .content-inner img:first-child {
-        margin: 0;
-        max-width: 100%;
-    }
+
 }
 
 /* xs */
